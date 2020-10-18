@@ -1,5 +1,3 @@
-# bworth home
-
 Nothing to see here yet.
 
 ## CV
